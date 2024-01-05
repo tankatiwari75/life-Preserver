@@ -1,0 +1,79 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+  background-color:#F4F5FA;
+  /* background: transparent; */
+  box-shadow: 0 0 15px rgb(255, 255, 255);
+  border-radius: 25px;
+}
+h2 {
+  color:rgb(201, 30, 38);
+  font-size: 50px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 85%;
+}
+.form-item {
+  display: flex;
+  width: 90%;
+  /* background: transparent; */
+  margin: 10px auto;
+  border-radius: 15px;
+  align-items: center;
+  border-bottom: 1px solid rgb(82, 81, 81);
+}
+.form-item:hover {
+  border: 1px solid rgb(82, 81, 81);
+}
+
+
+/* button[type="submit"] {
+  width: 180px;
+  font-size: 20px;
+  margin: 10px auto;
+  padding: 8px;
+  background: rgba(116, 122, 123, 0.72);
+  border: none;
+  color: white;
+} */
+button[type="submit"]:hover {
+  background: rgba(222, 236, 34, 0.678);
+}
+p:first-of-type {
+  margin: 0;
+}
+.options {
+  display: flex;
+  margin: 10px auto;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+button {
+  font-size: 18px;
+  padding: 5px 16px;
+  margin: 5px 15px;
+  width: 180px;
+  /* background: transparent; */
+  color: white;
+  cursor: pointer;
+  transition: all 0.7s ease;
+}
+#components-form-demo-normal-login .login-form {
+  max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+#components-form-demo-normal-login .ant-col-rtl .login-form-forgot {
+  float: left;
+}
+#components-form-demo-normal-login .login-form-button {
+  width: 100%;
+}

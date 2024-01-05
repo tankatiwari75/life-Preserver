@@ -1,0 +1,177 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "course_title": "Basics of CPR",
+      "description": "This course is about knowing the basics of CPR. CPR, or Cardiopulmonary Resuscitation, is an emergency life-saving technique that combines chest compressions and rescue breaths to maintain blood circulation and oxygenation in a person experiencing cardiac arrest.",
+      "modules": [
+        {
+          "id": 1,
+          "module_title": "Module 1: CPR Basics",
+          "description": "In this foundational module, you will embark on a life-saving journey, mastering the essential techniques of Cardiopulmonary Resuscitation (CPR). We explore the crucial components of CPR, including the correct method for chest compressions and the importance of swift intervention in emergency situations. Discover the significance of quality chest compressions and efficient rescue breaths. This module serves as your gateway to becoming a proficient CPR provider, ready to respond to cardiac emergencies with confidence and competence.",
+          "video_link": "https://www.youtube.com/watch?v=Plse2FOkV4Q",
+          "video_description": "How to perform CPR - A Step-by-Step Guide",
+          "quizzes": [
+            {
+              
+              "question": "What is the recommended compression depth for adult CPR?",
+              "options": ["2 inches", "4 inches", "6 inches", "8 inches"],
+              "correct_answer": 0
+            },
+            {
+              "question": "How many rescue breaths should be given in adult CPR after chest compressions?",
+              "options": ["1", "2", "4", "6"],
+              "correct_answer": 1
+            },
+            {
+              "question": "What is the correct hand placement for chest compressions in infant CPR?",
+              "options": ["Lower half of the breastbone", "Upper half of the breastbone", "Just above the navel", "Center of the chest"],
+              "correct_answer": 0
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "module_title": "Module 2: CPR for Children",
+          "description": "Module 2 delves into the world of CPR for children, focusing on the nuances and differences from adult CPR. You will learn the appropriate depth for chest compressions, the ideal compression rate, and the vital role of Automated External Defibrillators (AEDs) in pediatric emergencies. Gain the skills and knowledge needed to provide effective CPR for children, ensuring you can make a difference when it matters most.",
+          "video_link": "https://www.youtube.com/watch?v=PJbJ5IFvtIg",
+          "video_description": "How to Provide Child CPR",
+          "quizzes": [
+            {
+              "id": 2,
+              "question": "What is the compression depth for child CPR?",
+              "options": ["1 inch", "2 inches", "3 inches", "4 inches"],
+              "correct_answer": 1
+            },
+            {
+              "question": "At what rate should chest compressions be delivered in child CPR?",
+              "options": ["60-80 per minute", "100-120 per minute", "120-140 per minute", "150-180 per minute"],
+              "correct_answer": 1
+            },
+            {
+              "question": "What is the recommended compression-to-ventilation ratio for child CPR?",
+              "options": ["15:2", "30:2", "5:1", "10:1"],
+              "correct_answer": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "course_title": "Advanced CPR Training",
+      "description": "The Advanced CPR training course provides in-depth knowledge and practical skills in advanced life support techniques, including advanced airway management, medication administration, and defibrillation, to prepare healthcare professionals for complex cardiac emergencies.",
+      "modules": [
+        {
+          "id": 1,
+          "module_title": "Module 1: CPR for Infants",
+          "description": "This module is dedicated to the specialized techniques required for performing CPR on infants. From the correct hand placement for chest compressions to the ideal depth of compressions and the recommended compression-to-ventilation ratio, you will become adept at infant CPR. Additionally, you'll learn about infant airway management, an essential aspect of infant resuscitation.",
+          "video_link": "https://www.youtube.com/watch?v=gHZdBY-CkGw",
+          "video_description": "How to perform first aid and CPR on a choking infant / baby?",
+          "quizzes": [
+            {
+              "id": 3,
+              "question": "What is the correct hand placement for chest compressions in infant CPR?",
+              "options": ["Lower half of the breastbone", "Upper half of the breastbone", "Just above the navel", "Center of the chest"],
+              "correct_answer": 0
+            },
+            {
+              "question": "How deep should chest compressions be in infant CPR?",
+              "options": ["1/2 inch", "1 inch", "1.5 inches", "2 inches"],
+              "correct_answer": 1
+            },
+            {
+              "question": "What is the recommended compression-to-ventilation ratio for infant CPR?",
+              "options": ["15:2", "30:2", "5:1", "10:1"],
+              "correct_answer": 2
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "module_title": "Module 2: CPR for Choking",
+          "description": "Module 4 focuses on assisting choking victims. You'll learn to recognize the signs of choking and how to respond effectively. Explore techniques such as back blows and chest thrusts and understand when to transition to CPR if the victim becomes unresponsive. This knowledge is invaluable in situations where quick action can save a life.",
+          "video_link": "https://www.youtube.com/watch?v=06WXCWDaJps",
+          "video_description": "Conscious Adult Choking Practice",
+          "quizzes": [
+            {
+              "id": 4,
+              "question": "What is the first step in assisting a choking victim?",
+              "options": ["Perform abdominal thrusts", "Call 911", "Encourage them to cough", "Administer CPR"],
+              "correct_answer": 2
+            },
+            {
+              "question": "What is the recommended method for back blows in choking first aid?",
+              "options": ["Using an AED", "Heimlich maneuver", "Using a bag-mask device", "Five back blows followed by chest thrusts"],
+              "correct_answer": 3
+            },
+            {
+              "question": "When should you start CPR on a choking victim?",
+              "options": ["Immediately", "After three back blows", "After five abdominal thrusts", "Only if they become unresponsive"],
+              "correct_answer": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "course_title": "First Aid and CPR Training for Toronto FC",
+      "description": "First Aid and CPR Training for Toronto FC provides comprehensive, customized courses designed to equip the team and staff with the essential skills to respond to injuries and medical emergencies, ensuring the safety and well-being of players on and off the field",
+      "modules": [
+        {
+          "id": 1,
+          "module_title": "Module 1: Basic First Aid and CPR/AED Certification Course",
+          "description": "This course covers fundamental first aid techniques, such as wound care, fracture stabilization, and choking response.CPR/AED training is included to teach participants how to perform cardiopulmonary resuscitation and use an automated external defibrillator (AED) in case of sudden cardiac arrest.",
+          "video_link": "https://www.youtube.com/watch?v=xoXZCDH2bIU",
+          "video_description": "2023 CPR & AED Refresher Course with Nurse Eunice [Adult, Child, and Infant]",
+          "quizzes": [
+            {
+              "id": 5,
+              "question": "What is the first step in providing CPR to an adult who has collapsed and is unresponsive?",
+              "options": [" Begin chest compressions", "Give rescue breaths", "Check for a pulse", "Place them in the recovery position"],
+              "correct_answer": 3
+            },
+            {
+              "question": "In the context of first aid, the acronym R.I.C.E.stands for?",
+              "options": ["Resuscitate, Inspect, Cover, Elevate", "Rest, Ice, Compression, Elevation", " Respond, Immobilize, Clean, Examine", "Rehydrate, Inhale, Cough, Exhale"],
+              "correct_answer": 2
+            },
+            {
+              "question": "What should you do if someone is choking and unable to cough or breathe?",
+              "options": ["Offer them a glass of water", "Perform abdominal thrusts (Heimlich maneuver)", "Encourage them to take deep breaths"," Lie them down and elevate their legs"],
+              "correct_answer": 2
+            }
+            
+          ]
+        },
+        {
+          "id": 2,
+          "module_title": "Module 2:Injury Prevention Course",
+          "description": "An Injury Prevention Course focuses on teaching participants strategies and techniques to reduce the risk of common sports-related injuries, emphasizing proactive measures to enhance safety during physical activities.",
+          "video_link": "https://www.youtube.com/watch?v=X5YyunLZzBc",
+          "video_description": "Injury Prevention Program",
+          "quizzes": [
+            {
+              "id": 6,
+              "question": "What is a key component of injury prevention in sports?",
+              "options": ["Using outdated equipment", "Consistent warm-up and cool-down routines", " Ignoring early signs of injury", "Competing without protective gear"],
+              "correct_answer": 2
+            },
+            {
+              "question": "Which of the following is a primary cause of overuse injuries in sports?",
+              "options": ["Proper conditioning and gradual progression", "Adequate rest and recovery", "Repeating the same high-intensity movements without variation", "Regularly adjusting exercise routines"],
+              "correct_answer": 3
+            },
+            {
+              "question": "What is the role of flexibility in injury prevention?",
+              "options": [" It has no impact on injury prevention", " It helps maintain consistent body temperature", " It can improve joint range of motion and reduce the risk of muscle strains","It increases the likelihood of muscle cramps"],
+              "correct_answer": 3
+            }
+            
+          ]
+        }
+      ]
+    }
+  ]
+}

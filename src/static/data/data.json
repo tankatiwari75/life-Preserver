@@ -1,0 +1,126 @@
+{
+    "modules": [
+      {
+        "id":1,
+        "module_title": "Module 1: CPR Basics",
+        "description": "In this foundational module, you will embark on a life-saving journey, mastering the essential techniques of Cardiopulmonary Resuscitation (CPR). We explore the crucial components of CPR, including the correct method for chest compressions and the importance of swift intervention in emergency situations. Discover the significance of quality chest compressions and efficient rescue breaths. This module serves as your gateway to becoming a proficient CPR provider, ready to respond to cardiac emergencies with confidence and competence.",
+        "video_link": "https://www.youtube.com/watch?v=Plse2FOkV4Q",
+        "video_description":"How to perform CPR - A Step-by-Step Guide",
+        "quizzes": [
+          {
+            "id":1
+,            "question": "What is the recommended compression depth for adult CPR?",
+            "options": ["2 inches", "4 inches", "6 inches", "8 inches"],
+            "correct_answer": "2 inches"
+          },
+          {
+            "question": "How many rescue breaths should be given in adult CPR after chest compressions?",
+            "options": ["1", "2", "4", "6"],
+            "correct_answer": "2"
+          },
+          {
+            "question": "What is the correct hand placement for chest compressions in infant CPR?",
+            "options": ["Lower half of the breastbone", "Upper half of the breastbone", "Just above the navel", "Center of the chest"],
+            "correct_answer": "Lower half of the breastbone"
+          }
+        ]
+      },
+      {
+        "id":2,
+        "module_title": "Module 2: CPR for Children",
+        "description": "Module 2 delves into the world of CPR for children, focusing on the nuances and differences from adult CPR. You will learn the appropriate depth for chest compressions, the ideal compression rate, and the vital role of Automated External Defibrillators (AEDs) in pediatric emergencies. Gain the skills and knowledge needed to provide effective CPR for children, ensuring you can make a difference when it matters most.",
+        "video_link": "https://www.youtube.com/watch?v=PJbJ5IFvtIg",
+        "video_description":"How to Provide Child CPR",
+        "quizzes": [
+          {
+            "question": "What is the compression depth for child CPR?",
+            "options": ["1 inch", "2 inches", "3 inches", "4 inches"],
+            "correct_answer": "2 inches"
+          },
+          {
+            "question": "At what rate should chest compressions be delivered in child CPR?",
+            "options": ["60-80 per minute", "100-120 per minute", "120-140 per minute", "150-180 per minute"],
+            "correct_answer": "100-120 per minute"
+          },
+          {
+            "question": "What is the recommended compression-to-ventilation ratio for child CPR?",
+            "options": ["15:2", "30:2", "5:1", "10:1"],
+            "correct_answer": "15:2"
+          }
+        ]
+      },
+      {
+        "id":3,
+        "module_title": "Module 3: CPR for Infants",
+        "description": "This module is dedicated to the specialized techniques required for performing CPR on infants. From the correct hand placement for chest compressions to the ideal depth of compressions and the recommended compression-to-ventilation ratio, you will become adept at infant CPR. Additionally, you'll learn about infant airway management, an essential aspect of infant resuscitation.",
+        "video_link": "https://www.youtube.com/watch?v=gHZdBY-CkGw",
+        "video_description":"How to perform first aid and CPR on a choking infant / baby?",
+        "quizzes": [
+          {
+            "question": "What is the correct hand placement for chest compressions in infant CPR?",
+            "options": ["Center of the chest","Lower half of the breastbone", "Upper half of the breastbone", "Just above the navel"],
+            "correct_answer": "Lower half of the breastbone"
+          },
+          {
+            "question": "How deep should chest compressions be in infant CPR?",
+            "options": ["1/2 inch", "1 inch", "1.5 inches", "2 inches"],
+            "correct_answer": "1 inch"
+          },
+          {
+            "question": "What is the recommended compression-to-ventilation ratio for infant CPR?",
+            "options": ["15:2", "30:2", "5:1", "10:1"],
+            "correct_answer": "5:1"
+          }
+        ]
+      },
+      {
+        "id":4,
+        "module_title": "Module 4: CPR for Choking",
+        "description": " Module 4 focuses on assisting choking victims. You'll learn to recognize the signs of choking and how to respond effectively. Explore techniques such as back blows and chest thrusts and understand when to transition to CPR if the victim becomes unresponsive. This knowledge is invaluable in situations where quick action can save a life.",
+        "video_link": "https://www.youtube.com/watch?v=06WXCWDaJps",
+        "video_description":"Conscious Adult Choking Practice",
+        "quizzes": [
+          {
+            "question": "What is the first step in assisting a choking victim?",
+            "options": ["Perform abdominal thrusts", "Call 911", "Encourage them to cough", "Administer CPR"],
+            "correct_answer": "Encourage them to cough"
+          },
+          {
+            "question": "What is the recommended method for back blows in choking first aid?",
+            "options": ["Using an AED", "Heimlich maneuver", "Using a bag-mask device", "Five back blows followed by chest thrusts"],
+            "correct_answer": 3
+          },
+          {
+            "question": "When should you start CPR on a choking victim?",
+            "options": ["Immediately", "After three back blows", "After five abdominal thrusts", "Only if they become unresponsive"],
+            "correct_answer":  "Five back blows followed by chest thrusts"
+          }
+        ]
+      },
+      {
+        "id":5,
+        "module_title": "Module 5: CPR Certification",
+        "description": " This module outlines the CPR certification process, covering practical assessments and written exams required to become a certified CPR provider. You'll gain insights into common certification organizations and learn how often certification should be renewed. Practical assessments will test your skills, while written exams assess your understanding of theoretical concepts. Upon completion, you'll be equipped with a CPR certification, demonstrating your readiness to assist in emergencies, whether at home, on the field, or in your community. Your training in these modules will empower you to make a difference when it counts the most.",
+        "video_link": "https://www.youtube.com/watch?v=TPpiWG_HzkI",
+        "video_description":"Hands-only CPR Training",
+        "quizzes": [
+          {
+            "question": "What is a common certification organization for CPR training?",
+            "options": ["CPR International", "Toronto FC CPR Division", "American Heart Association", "CPR Toronto Certification"],
+            "correct_answer": "American Heart Association"
+          },
+          {
+            "question": "How often should you renew your CPR certification?",
+            "options": ["Every 10 years", "Every 5 years", "Every 2 years", "Certification never expires"],
+            "correct_answer": "Every 2 years"
+          },
+          {
+            "question": "What is the purpose of a practical assessment in CPR certification?",
+            "options": ["To learn theoretical concepts", "To demonstrate practical skills", "To review certification policies", "To take a written exam"],
+            "correct_answer": "To demonstrate practical skills"
+          }
+        ]
+      }
+    ]
+  }
+  
